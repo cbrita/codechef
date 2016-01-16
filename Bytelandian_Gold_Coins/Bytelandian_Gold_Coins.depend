@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431166753 source:c:\users\calin brita\desktop\codeblocks\c\bytelandian_gold_coins\main.c
+	<stdio.h>
+	<stdlib.h>
+

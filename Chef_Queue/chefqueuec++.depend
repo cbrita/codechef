@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449917409 source:c:\users\calin brita\desktop\codeblocks\c\chefqueuec++\main.cpp
+	<iostream>
+	<deque>
+	<iterator>
+
